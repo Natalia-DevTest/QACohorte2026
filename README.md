@@ -30,4 +30,4 @@ En este proyecto vas a encontrar:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+   git clone https://github.com/Natalia-DevTest/QACohorte2026.git
